@@ -1,0 +1,6 @@
+name: "Nireneko"
+description: "Ejemplo para ver como se muestran los bloques en una plantilla"
+package: Neko
+version: '8.x-1.0'
+core: 8.x
+type: module

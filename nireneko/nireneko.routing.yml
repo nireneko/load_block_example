@@ -1,0 +1,7 @@
+nireneko.display_block:
+  path: '/nireneko/block'
+  defaults:
+    _controller: '\Drupal\nireneko\Controller\BlockController::displayBlocks'
+    _title: 'Nireneko block display'
+  requirements:
+    _permission: 'view content'
